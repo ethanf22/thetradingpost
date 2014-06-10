@@ -6,6 +6,13 @@
 
 </head>
 <body>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>Fresh Food</li>
+            <li>Home Decor</li>
+        </ul>
+    </nav>
 </body>
 </html>
 
